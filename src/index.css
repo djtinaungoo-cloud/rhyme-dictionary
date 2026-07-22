@@ -1,0 +1,3 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Myanmar:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=DM+Mono&display=swap');
+@import "tailwindcss";
+:root{font-family:'Noto Sans Myanmar',sans-serif;background:#f6f2ea;color:#241d18}body{margin:0;min-width:320px}button,input{font:inherit}button{cursor:pointer}
